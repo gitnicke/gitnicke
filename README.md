@@ -1,8 +1,4 @@
-## Hej👋
-
-- 🔭 I’m currently working on learning git.
-- 🌱 I’m currently learning web, AI, ML etc.
-- 😄 Pronouns: what
+Hej
 - ⚡ Fun fact: Guess haha
 
 <!--
